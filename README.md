@@ -9,7 +9,9 @@
 </p>
 
 ## 🏆 GitHub Trophies
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=adamjbrennan&theme=radical&no-frame=false&no-bg=true&margin-w=4"/><br/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adamjbrennan&icon=0&color=11)](https://visitcount.itsvg.in)
